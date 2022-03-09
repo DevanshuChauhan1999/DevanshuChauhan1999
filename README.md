@@ -15,12 +15,16 @@ I am Devanshu Chauhan, currently in the final year of my MCA from ITM University
 
 ## ⚡ Technologies:
 ### Language :
-![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=kotlin)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML](https://img.shields.io/badge/-HTML-4a4e69?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-006d77?style=flat-square&logo=CSS3)
+![PHP](https://img.shields.io/badge/-PHP-a4161a?style=flat-square&logo=php)
 
 ## 💎 Libraries & Framework :
-![Native Android](https://img.shields.io/badge/Android-563D7C?style=flat-square&logo=android&logoColor=white)
+![Native Android](https://img.shields.io/badge/Android-2ec4b6?style=flat-square&logo=android&logoColor=white)
+![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-8d99ae?style=flat-square&logo=Apache%20NetBeans%20IDE&logoColor=white)
 
 ## 📈 Stats
 <p align="center">
