@@ -9,7 +9,9 @@ I am Devanshu Chauhan, currently in the final year of my MCA from ITM University
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu-chauhan-40b378154/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devanshu_1999)
 [![Gmail Badge](https://img.shields.io/badge/-chauhandevanshu121@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chauhandevanshu121@gmail.com)
-[![Resume Badge](https://img.shields.io/badge/Resume-Devanshu%20Chauhan-343a40?labelColor=4d908e)](https://drive.google.com/file/d/1VZsDE_1B-vH3YxiGqRpWkIAakHS4-6Yo/view?usp=sharing)
+<a href="https://www.instagram.com/r.a.a.v.a.n__" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+ [![Resume Badge](https://img.shields.io/badge/Resume-Devanshu%20Chauhan-343a40?labelColor=4d908e)](https://drive.google.com/file/d/1VZsDE_1B-vH3YxiGqRpWkIAakHS4-6Yo/view?usp=sharing)
+ 
 
 ## ⚡ Technologies:
 ### Language :
