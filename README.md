@@ -8,7 +8,7 @@ I am Devanshu Chauhan, currently in the final year of my MCA from ITM University
 
 
 ## 🔗 Find out more about me & feel free to connect with me here:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://devanshuchauhan1999.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu-chauhan-40b378154/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devanshu_1999)
 [![Gmail Badge](https://img.shields.io/badge/-chauhandevanshu121@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:chauhandevanshu121@gmail.com)
