@@ -1,6 +1,6 @@
 # Hi, I am Devanshu Chauhan! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Devanshu Chauhan, currently in the final year of my MCA from ITM University, Gwalior.I am a tech savant and always open to collaborating on projects and innovative ideas. Currently, I am an learning Android Development new stuff like Jetpack Compose and KTOR.
+I am Devanshu Chauhan, currently in the final year of my MCA from ITM University, Gwalior. I am a tech savant and always open to collaborating on projects and innovative ideas. Currently, I am an learning Android's new stuff like Jetpack Compose and KTOR.
  <div align="center">
   <img src ="./banner.jpg" />
  </div>
